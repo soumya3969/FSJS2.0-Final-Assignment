@@ -1,19 +1,78 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=
-    , initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=
+    , initial-scale=1.0" />
     <title>Question 5</title>
-</head>
-<body>
+    <style>
+        .content-sec{
+            width: 40vw;
+            display: flex;
+            justify-content: space-between;
+            margin-top: 8px;
+        }
+    </style>
+  </head>
+  <body>
     <div class="image-sec">
-        <img src="./Assets/Q2-1.jpeg" alt="image-sec">
+      <img src="./Assets/Q2-1.jpeg" alt="image-sec" width="50%" />
     </div>
-    <div class="table-sec">
-        <p class="para">
-            We will be learning the 
-        </p>
+    <section class="table-sec">
+      <p class="para">We will be learning the following things this week:-</p>
+      <table>
+        <tr>
+          <th>Day 1</th>
+          <th>Day 2</th>
+          <th>Day 3</th>
+          <th>Day 4</th>
+        </tr>
+        <tr>
+          <td>Linux 1</td>
+          <td>HTML</td>
+          <td>Linux 2</td>
+          <td>Linux 3</td>
+        </tr>
+        <tr>
+          <td>GIT 1</td>
+          <td>CSS</td>
+          <td>Git 2</td>
+          <td>Bootstrap</td>
+        </tr>
+      </table>
+    </section>
+    <sec class="form-sec">
+      <p class="para">If you want to contact me, Please fill in this form:</p>
+
+      <div class="form">
+        <div class="content-sec">
+          <label>Name:</label>
+          <input type="text" width="50px" />
+        </div>
+        <div class="content-sec">
+          <label>Phone no:</label>
+          <input type="number" name="phone" id="phone" width="50px" />
+        </div>
+        <div class="content-sec">
+          <label>Email id:</label>
+          <input type="email" width="50px" />
+        </div>
+      </div>
+    </sec>
+    <div class="list-sec">
+      <h3>The following things are important to be a programmer</h3>
+      <ul>
+        <li>A problem solving mindset</li>
+        <li>Consistency</li>
+        <ul class="sublist">
+          <li>Clean code</li>
+          <li>Through Knowledge of core concept</li>
+          <li>Readable code</li>
+        </ul>
+        <li>Speed</li>
+      </ul>
     </div>
-</body>
+  </body>
 </html>
