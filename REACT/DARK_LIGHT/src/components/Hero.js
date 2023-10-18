@@ -9,7 +9,7 @@ const Hero = () => {
             industry. Lorem Ipsum has been the industry's standard dummy text
             ever since the 1500s.
           </p>
-          <button className="btn btn-primary">Checkout</button>
+          <button className="btn btn-primary p-2">Checkout</button>
         </div>
       </div>
     </div>
