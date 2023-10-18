@@ -1,7 +1,7 @@
 # Search using Debouncing
 
 - **This project is a meal search application built with JavaScript, utilizing the MealDB API. It allows users to search for meals by entering keywords, and it incorporates the debouncing technique to optimize the search functionality by reducing unnecessary API calls.**
-- **To see project in action, visit [https://debouncing-by-vaibhav-shinde.netlify.app/](https://debouncing-by-vaibhav-shinde.netlify.app/)**
+- **To see project in action, visit [LINK](https://debouncing-soumya3969.netlify.app//)**
 
 ## Features
 
