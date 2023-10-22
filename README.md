@@ -1,3 +1,2 @@
 # FSJS2.0-Final-Assignment
-Q5 link https://q5-sandhya.netlify.app/      
-Q7 link https://music-demo-fsjs2.netlify.app/
+Assignment Link <br> <a href="https://docs.google.com/document/d/1WQ01MataPCZT2RfG9R9gUa6z9nmDSZdoVOtOkaTABtk/edit?usp=sharing"><img width="48" height="48" src="https://img.icons8.com/external-tanah-basah-basic-outline-tanah-basah/48/000000/external-click-web-and-seo-tanah-basah-basic-outline-tanah-basah.png" alt="external-click-web-and-seo-tanah-basah-basic-outline-tanah-basah"/>here</a>
